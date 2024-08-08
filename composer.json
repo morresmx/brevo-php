@@ -1,5 +1,5 @@
 {
-    "name": "getbrevo/brevo-php",
+    "name": "morresmx/brevo-php",
     "description": "Official Brevo provided RESTFul API V3 php library",
     "keywords": [
         "brevo",
@@ -8,7 +8,7 @@
         "sdk",
         "api"
     ],
-    "homepage": "https://github.com/getbrevo/brevo-php",
+    "homepage": "https://github.com/morresmx/brevo-php",
     "license": "MIT",
     "authors": [
         {
